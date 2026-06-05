@@ -67,17 +67,6 @@ The dashboard reveals strong sales in **Footwear**, consistent weekly order volu
 - Automated report generation for weekly and quarterly summaries.  
 - Predictive analytics for forecasting regional sales trends.
 
----
 
-## 🧾 License
-This project is proprietary to Adidas and intended for internal analytics and visualization purposes.
 
----
 
-## 🧭 Author
-Developed by the **Adidas Data Visualization Team**  
-For inquiries, contact: [data-insights@adidas.com](tel:data-insights@adidas.com)
-
----
-
-Would you like me to extend this README with a **[setup guide](ca://s?q=Add_setup_instructions_to_dashboard_README)** or a **[technical architecture section](ca://s?q=Add_technical_architecture_to_dashboard_README)** next?
