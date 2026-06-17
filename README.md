@@ -5,7 +5,8 @@
 The **Adidas-US-Interactive-Sales-Pro Dashboard** is an interactive data visualization tool designed to analyze and monitor Adidas sales performance across multiple dimensions — including category, region, store type, and time period. It provides actionable insights for business decision-making and trend analysis.
 ---
 ## 🧩 Dashboard Overview
-<img width="1320" height="415" alt="adidas dashboard" src="https://github.com/user-attachments/assets/f29bbd23-9b80-4549-9239-7d93e93c786e" />
+
+<img width="1256" height="432" alt="adidas dashboard final" src="https://github.com/user-attachments/assets/d007a5a5-ee71-4d0a-8f11-954a7492a2ef" />
 
 ---
 
